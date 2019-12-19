@@ -1,0 +1,60 @@
+{
+    "name": "Access Now",
+    "description": "Access Now defends and extends the digital rights of users at risk around the world. By combining innovative policy, global advocacy, and direct technical support, we fight for open and secure communications for all.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Access-Logo1.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "no api definition",
+        "privacy",
+        "surveillance",
+        "transparency"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/access-now\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Access Now",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Access-Logo1.jpg",
+            "humanURL": "https:\/\/www.accessnow.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/access-now-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/access-now-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.accessnow.org\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.accessnow.org\/feed\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/accessnow"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/accessnow"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.accessnow.org"
+        }
+    ]
+}
